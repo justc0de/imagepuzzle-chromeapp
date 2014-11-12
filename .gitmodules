@@ -1,0 +1,3 @@
+[submodule "imagepuzzle"]
+	path = imagepuzzle
+	url = git@github.com:justc0de/imagepuzzle.git
